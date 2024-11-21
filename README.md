@@ -4,11 +4,11 @@ Hello! I'm Felix Taylor-Beken, a passionate developer exploring game development
 
 🕹️ Game Projects
 
-Pong: A ShaderLab-powered recreation of the classic arcade game.
+- Pong: A ShaderLab-powered recreation of the classic arcade game.
 
-Pacman: A retro C# implementation of everyone's favorite ghost-chasing hero.
+- Pacman: A retro C# implementation of everyone's favorite ghost-chasing hero.
 
-Tetris: A Unity-based take on the iconic block-stacking game.
+- Tetris: A Unity-based take on the iconic block-stacking game.
 
 🌐 Web Development
 
