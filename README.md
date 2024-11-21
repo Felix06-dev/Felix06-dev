@@ -1,4 +1,4 @@
-# Welcome to Felix's GitHub 👋
+# **Welcome to Felix's GitHub 👋**
 
 Hello! I'm Felix Taylor-Beken, a passionate developer exploring game development, web technologies, and creative coding. Check out some of my projects below!
 
