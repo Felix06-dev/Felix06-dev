@@ -12,7 +12,7 @@ Hello! I'm Felix Taylor-Beken, a passionate developer exploring game development
 
 🌐 Web Development
 
-CMS Blog Site: A PHP and MySQL-based content management system inspired by WordPress.
+- CMS Blog Site: A PHP and MySQL-based content management system inspired by WordPress.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix06-dev)](https://github.com/anuraghazra/github-readme-stats)
 
