@@ -1,8 +1,8 @@
-Welcome to Felix's GitHub 👋
+# Welcome to Felix's GitHub 👋
 
 Hello! I'm Felix Taylor-Beken, a passionate developer exploring game development, web technologies, and creative coding. Check out some of my projects below!
 
-🕹️ Game Projects
+## 🕹️ Game Projects
 
 - Pong: A ShaderLab-powered recreation of the classic arcade game.
 
@@ -10,7 +10,7 @@ Hello! I'm Felix Taylor-Beken, a passionate developer exploring game development
 
 - Tetris: A Unity-based take on the iconic block-stacking game.
 
-🌐 Web Development
+## 🌐 Web Development
 
 - CMS Blog Site: A PHP and MySQL-based content management system inspired by WordPress.
 
